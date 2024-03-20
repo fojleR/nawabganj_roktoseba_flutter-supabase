@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773960146009",
+    "project_id": "nawabganj-roktoseba",
+    "storage_bucket": "nawabganj-roktoseba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773960146009:android:c079b0a98eecb7d5d7e548",
+        "android_client_info": {
+          "package_name": "com.example.nawabganj_roktoseba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hIe-QaI29EeEnU_aU-WtMo31Ydz0EMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
